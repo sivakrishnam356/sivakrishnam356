@@ -2,9 +2,12 @@
 🚀 Aspiring Java Backend Developer | ☕ Passionate about building scalable applications
 
 🌱 Currently Learning: Spring Boot, Microservices, and Backend Architecture
+
 💡 Interested in: Java, Spring Boot, REST APIs, and Database Management
+
 💬 Looking to Collaborate: On backend projects, API development, and cloud-based solutions
-📫 Reach me at: [sivakrishnam3562gmail.com]
+
+📫 Reach me at: [sivakrishnam356gmail.com]
 
 ⚡ Fun Fact: I love solving coding challenges and optimizing algorithms for better performance!
 
