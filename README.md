@@ -23,7 +23,7 @@ I'm **Sivakrishna**, and I'm a **Java Full Stack Developer** passionate about bu
 
 ### 📊 **Smart Expense Tracker**  
 🔹 A **financial tracking system** that helps users monitor expenses & budgets  
-🔹 **Tech Stack:** **Java, Spring Boot, MySQL, HTML, CSS, JavaScript**  
+🔹 **Tech Stack:** **Java, Spring Boot, MySQL, HTML, CSS, React JS**  
 
 ## 📫 Connect With Me  
 🔗 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/sivakrishna-mukku-b374b32a6/)  
@@ -33,10 +33,10 @@ I'm **Sivakrishna**, and I'm a **Java Full Stack Developer** passionate about bu
 ## 💻 Tech Stack  
 
 ### **Frontend**  
-🖥 **HTML5 | CSS3 | JavaScript | JSP**  
+🖥 **HTML5 | CSS3 | JavaScript | React JS**  
 
 ### **Backend**  
-⚙️ **Java | Servlets | JDBC | Spring | Spring Boot| Hibernate**  
+⚙️ **Core Java| Python | Servlets | JDBC | Spring | Spring Boot| Hibernate**  
 
 ### **Database**  
 🗃 **MySQL**  
